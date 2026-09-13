@@ -1,4 +1,4 @@
-import { Link, useLocation } from "react-router-dom";
+import { Link, useLocation } from "react-router";
 import "../styles/Navbar.css";
 import { useEffect, useState } from "react";
 import { useTranslation } from "react-i18next";
